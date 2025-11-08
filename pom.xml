@@ -33,14 +33,6 @@
             <version>4.25.0</version>
         </dependency>
 
-        <!-- TestNG for test framework -->
-        <dependency>
-             <groupId>org.testng</groupId>
-             <artifactId>testng</artifactId>
-             <version>7.9.0</version>
-             <scope>test</scope>
-         </dependency>
-
         <!-- WebDriverManager (auto browser driver) -->
         <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
         <dependency>
@@ -80,6 +72,12 @@
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>2.15.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.11.0</version>
         </dependency>
     </dependencies>
 
