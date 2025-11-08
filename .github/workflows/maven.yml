@@ -1,14 +1,9 @@
 name: Java CI with Maven
 
 on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
   schedule:
     # 14:40 UTC = 8:10 PM IST (India)
-    - cron: "40 14 * * *"
-  workflow_dispatch:
+    - cron: "43 14 * * *"
 
 permissions:
   contents: read
