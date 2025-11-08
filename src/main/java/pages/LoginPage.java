@@ -5,11 +5,11 @@ import org.openqa.selenium.WebDriver;
 import utils.WaitUtils;
 
 public class LoginPage {
-    private WebDriver driver;
+    private final WebDriver driver;
 
-    private By usernameField = By.name("username");
-    private By passwordField = By.name("password");
-    private By loginButton = By.xpath("//button[@type='submit']");
+    private final By usernameField = By.name("username");
+    private final By passwordField = By.name("password");
+    private final By loginButton = By.xpath("//button[@type='submit']");
 
     public LoginPage(WebDriver driver) {
         this.driver = driver;
