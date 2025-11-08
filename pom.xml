@@ -35,11 +35,11 @@
 
         <!-- TestNG for test framework -->
         <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.9.0</version> <!-- Use latest stable version -->
-            <scope>test</scope>
-        </dependency>
+             <groupId>org.testng</groupId>
+             <artifactId>testng</artifactId>
+             <version>7.7.0</version>
+             <scope>test</scope>
+         </dependency>
 
         <!-- WebDriverManager (auto browser driver) -->
         <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
