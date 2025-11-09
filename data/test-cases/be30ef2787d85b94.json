@@ -1,12 +1,12 @@
 {
-  "uid" : "dedf5a5fe52cee9a",
+  "uid" : "be30ef2787d85b94",
   "name" : "verifyValidLogin",
   "fullName" : "tests.LoginTest.verifyValidLogin",
   "historyId" : "3fcb25d8461079b70e671c792c22afdb",
   "time" : {
-    "start" : 1762695178080,
-    "stop" : 1762695180357,
-    "duration" : 2277
+    "start" : 1762693735367,
+    "stop" : 1762693737710,
+    "duration" : 2343
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "setUp",
     "time" : {
-      "start" : 1762695162597,
-      "stop" : 1762695178010,
-      "duration" : 15413
+      "start" : 1762693720490,
+      "stop" : 1762693734861,
+      "duration" : 14371
     },
     "description" : "",
     "status" : "passed",
@@ -31,9 +31,9 @@
   "afterStages" : [ {
     "name" : "tearDown",
     "time" : {
-      "start" : 1762695180365,
-      "stop" : 1762695180555,
-      "duration" : 190
+      "start" : 1762693737793,
+      "stop" : 1762693737794,
+      "duration" : 1
     },
     "description" : "",
     "status" : "passed",
@@ -65,10 +65,10 @@
     "value" : "tests.LoginTest"
   }, {
     "name" : "host",
-    "value" : "runnervmw9dnm"
+    "value" : "DESKTOP-1S3C32R"
   }, {
     "name" : "thread",
-    "value" : "2588@runnervmw9dnm.main(1)"
+    "value" : "12500@DESKTOP-1S3C32R.main(3)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -81,22 +81,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ {
-      "uid" : "b572f3fff61aa694",
-      "status" : "passed",
-      "time" : {
-        "start" : 1762693735367,
-        "stop" : 1762693737710,
-        "duration" : 2343
-      }
-    } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "dedf5a5fe52cee9a.json",
+  "source" : "be30ef2787d85b94.json",
   "parameterValues" : [ ]
 }
