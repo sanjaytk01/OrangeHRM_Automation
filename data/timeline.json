@@ -2,33 +2,12 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "runnervmw9dnm",
-    "children" : [ {
-      "name" : "2515@runnervmw9dnm.main(1)",
-      "children" : [ {
-        "name" : "verifyValidLogin",
-        "uid" : "63e6993e6d5b2e0",
-        "parentUid" : "e33a66700af8a0f9b960772efc0b7c7d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1762706560132,
-          "stop" : 1762706561653,
-          "duration" : 1521
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "e33a66700af8a0f9b960772efc0b7c7d"
-    } ],
-    "uid" : "da1d2d6ef3133e2700ea357db9591068"
-  }, {
     "name" : "DESKTOP-1S3C32R",
     "children" : [ {
       "name" : "12500@DESKTOP-1S3C32R.main(3)",
       "children" : [ {
         "name" : "verifyValidLogin",
-        "uid" : "be30ef2787d85b94",
+        "uid" : "51384dbe3b9466af",
         "parentUid" : "9025deb415bfd36733e9e9e46cc953bf",
         "status" : "passed",
         "time" : {

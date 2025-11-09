@@ -1,0 +1,94 @@
+{
+  "uid" : "51384dbe3b9466af",
+  "name" : "verifyValidLogin",
+  "fullName" : "tests.LoginTest.verifyValidLogin",
+  "historyId" : "3fcb25d8461079b70e671c792c22afdb",
+  "time" : {
+    "start" : 1762693735367,
+    "stop" : 1762693737710,
+    "duration" : 2343
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1762693720490,
+      "stop" : 1762693734861,
+      "duration" : 14371
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1762693737793,
+      "stop" : 1762693737794,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyValidLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "OrangeHRM Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Login Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1S3C32R"
+  }, {
+    "name" : "thread",
+    "value" : "12500@DESKTOP-1S3C32R.main(3)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51384dbe3b9466af.json",
+  "parameterValues" : [ ]
+}
