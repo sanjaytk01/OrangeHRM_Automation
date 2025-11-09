@@ -4,6 +4,7 @@
     <listeners>
         <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
     </listeners>
+    <!-- allure serve allure-results -->
     <test name="Login Tests">
         <classes>
             <class name="tests.LoginTest"/>
