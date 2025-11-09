@@ -27,7 +27,7 @@ public class BaseTest {
 
         // Optional: detect CI environment dynamically
         if (System.getenv("CI") != null) {
-            System.out.println("Running on CI — enabling headless mode");
+            System.out.println("Running on CI — Enabling headless mode");
             options.addArguments("--headless=new");
         }
         driver = new ChromeDriver(options);
