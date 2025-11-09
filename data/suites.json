@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "OrangeHRM Suite",
+    "children" : [ {
+      "name" : "Login Tests",
+      "children" : [ {
+        "name" : "tests.LoginTest",
+        "children" : [ {
+          "name" : "verifyValidLogin",
+          "uid" : "dedf5a5fe52cee9a",
+          "parentUid" : "ce753d3ed7c6a3e92304f878b6aaddc4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1762695178080,
+            "stop" : 1762695180357,
+            "duration" : 2277
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ce753d3ed7c6a3e92304f878b6aaddc4"
+      } ],
+      "uid" : "9ac329f3c165678a618ceda6003f6cd9"
+    } ],
+    "uid" : "670fce23a1e5ffa39c86d0126ddd5cfe"
+  } ]
+}

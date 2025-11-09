@@ -1,0 +1,102 @@
+{
+  "uid" : "dedf5a5fe52cee9a",
+  "name" : "verifyValidLogin",
+  "fullName" : "tests.LoginTest.verifyValidLogin",
+  "historyId" : "3fcb25d8461079b70e671c792c22afdb",
+  "time" : {
+    "start" : 1762695178080,
+    "stop" : 1762695180357,
+    "duration" : 2277
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1762695162597,
+      "stop" : 1762695178010,
+      "duration" : 15413
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1762695180365,
+      "stop" : 1762695180555,
+      "duration" : 190
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyValidLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "OrangeHRM Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Login Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "runnervmw9dnm"
+  }, {
+    "name" : "thread",
+    "value" : "2588@runnervmw9dnm.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b572f3fff61aa694",
+      "status" : "passed",
+      "time" : {
+        "start" : 1762693735367,
+        "stop" : 1762693737710,
+        "duration" : 2343
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dedf5a5fe52cee9a.json",
+  "parameterValues" : [ ]
+}
