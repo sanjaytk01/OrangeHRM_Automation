@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-1S3C32R",
+    "children" : [ {
+      "name" : "12500@DESKTOP-1S3C32R.main(3)",
+      "children" : [ {
+        "name" : "verifyValidLogin",
+        "uid" : "51384dbe3b9466af",
+        "parentUid" : "9025deb415bfd36733e9e9e46cc953bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1762693735367,
+          "stop" : 1762693737710,
+          "duration" : 2343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9025deb415bfd36733e9e9e46cc953bf"
+    } ],
+    "uid" : "e8b4cb886a4877e705c87426efa44b29"
+  } ]
+}
