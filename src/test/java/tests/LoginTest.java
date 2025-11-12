@@ -11,6 +11,7 @@ public class LoginTest extends BaseTest {
     public void verifyValidLogin() {
         LoginPage login = new LoginPage(driver);
         login.login(ConfigReader.get("adminUsername"), ConfigReader.get("adminPassword"));
+        System.out.println("Done");
         Assert.assertTrue(true);
     }
 }
